@@ -1,0 +1,9 @@
+Заголовок (Summary)
+Проект (Project)
+Номер версии (Version)
+Описание (Description)
+Критичность (Severity)
+Приоритет (Priority)
+Прикрепленный файл (Attachment)
+
+
